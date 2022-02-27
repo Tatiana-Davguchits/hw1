@@ -22,6 +22,7 @@ for i in stroka:
         i = int(i)
         numbers.append(i)
 print(word)
+
 print(numbers)
 
 word.sort()
